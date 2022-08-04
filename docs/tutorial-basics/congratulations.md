@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-![img](./images/Test.svg)
+![img](./images/test.svg)
 
 # Congratulations!
 
